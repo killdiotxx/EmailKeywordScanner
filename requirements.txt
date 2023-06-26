@@ -1,0 +1,5 @@
+imaplib
+email
+html2text
+beautifulsoup4
+python-dateutil
