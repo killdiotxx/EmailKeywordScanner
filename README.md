@@ -9,3 +9,7 @@ This script is useful for data retrieval and can be utilized for tasks such as s
 - Searches for keywords to extract specific information
 - Prints the extracted information
 - Automatically detects and processes new emails from the same sender
+
+## Contribution
+Contributions are welcome! If you would like to enhance the functionality of the Email Keyword Scanner or fix any issues, feel free to submit a pull request.
+
